@@ -41,3 +41,7 @@ pagination.pagerSize = 5
         identifier = "about"
         name = "About"
         url = "/about"
+
+[caches]
+  [caches.images]
+    dir = ":cacheDir/images"
