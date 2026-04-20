@@ -33,8 +33,10 @@ back in the future and recollect on what I've been up to.
 The answer to this is: *I'm not sure*. This is the third iterations of this
 site, the other two iterations are unpublished. It is my aim to divide this site
 into the categories: *trip, language learning and projects*. Trips will
-document: places have been to, what I have done there and recommendations of
+document places have been to, what I have done there and recommendations of
 what to do; language learning will be an attempt to speak in a different
 language; and projects will document personal projects I am working on.
+
+That's all for now!
 
 Tschüss!
