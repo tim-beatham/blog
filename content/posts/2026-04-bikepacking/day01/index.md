@@ -1,7 +1,7 @@
 # Day 01: Amsterdam to Utrecht
 
 This is my first post of the cycling trip as I speak I'm typing this in a tent
-in the outskirts of Utrecht. I was worried that I was going to be too cold
+in the outskirts of Utrecht (with Nvim and Termux). I was worried that I was going to be too cold
 tonight so I've wrapped up with two jumpers.
 
 Today we've disembarked from the ferry at the DFDS Amsterdam ferry terminal;
