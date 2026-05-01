@@ -1,3 +1,2 @@
 *.jpg filter=lfs diff=lfs merge=lfs -text
 content/posts/2026-04-bikepacking/**/*.jpg filter=lfs diff=lfs merge=lfs -text
-content/posts/2026-04-bikepacking/day01/*.jpg filter=lfs diff=lfs merge=lfs -text
