@@ -35,6 +35,8 @@ too small and think a pint is a more appropriate size.
 
 We ended the day getting a curry where I got Saag Paneer!
 
+![My first Kölsch](2026-04-23-kölsch.jpg)
+
 ## A Day in Köln
 
 ![A cinnamon bun in Köln](2026-04-24-cinnamon-bun.jpg)
